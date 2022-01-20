@@ -1,0 +1,7 @@
+C:\Users\Airam\source\repos\Program.cs\bin\Debug\Program.cs.exe.config
+C:\Users\Airam\source\repos\Program.cs\bin\Debug\Program.cs.exe
+C:\Users\Airam\source\repos\Program.cs\bin\Debug\Program.cs.pdb
+C:\Users\Airam\source\repos\Program.cs\obj\Debug\Program.cs.csproj.AssemblyReference.cache
+C:\Users\Airam\source\repos\Program.cs\obj\Debug\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\Airam\source\repos\Program.cs\obj\Debug\Program.cs.exe
+C:\Users\Airam\source\repos\Program.cs\obj\Debug\Program.cs.pdb
